@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohdsadiq7" alt="mohdsadiq7" /></a> </p>
 
-- 🔭 I’m currently working in **Onetrust as Software Engineer**
+- 🔭 I’m currently working at **Onetrust as Software Engineer**
 
-- 💬 Ask me about **Frontend, Angular, Software Development**
+- 💬 Ask me about **Frontend, Angular, Typescript, Javascript, Software Development**
 
 - 📫 How to reach me **mohammedsadiq7499@gmail.com**
 
